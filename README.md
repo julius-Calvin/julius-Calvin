@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Julius Calvin Kurniadi!  
 
-<!--
-**julius-Calvin/julius-Calvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Web Developer** with experience in:  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm passionate about crafting clean, user-friendly web interfaces and continually learning new web technologies.
+
+---
+
+### Favorite Character: Zero Two
+
+![Zero Two Dancing](https://media.giphy.com/media/Q8I2Ppprx9h60/giphy.gif)
+
+> *"I found you, my darling."*
+
+---
+
+### Let's Connect!
+- [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*
+- [Portfolio](https://your-portfolio.com) *(If you have one)*
