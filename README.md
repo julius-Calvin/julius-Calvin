@@ -19,7 +19,7 @@ Here are some of the technologies I work with, in a style similar to your exampl
 
 <p align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt="Python"/>&nbsp;
   
   
   </p>
