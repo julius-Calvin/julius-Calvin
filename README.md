@@ -1,6 +1,6 @@
 # Julius Calvin Kurniadi
 
-## 🛠️ My Skillset
+## Skillset
 
 ### Language
 <p align="left">
