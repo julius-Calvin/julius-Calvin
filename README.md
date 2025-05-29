@@ -30,9 +30,9 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jcalvink/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300" alt="Connect with me on LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Connect with me on LinkedIn"/>
   </a>
 </p>
 
@@ -40,10 +40,4 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and pote
 
 ---
 
-**🔗 My LinkedIn Profile:**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jcalvink/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcalvink/" alt="Connect on LinkedIn"/>
-  </a>
-</p>
