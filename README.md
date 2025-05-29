@@ -22,5 +22,4 @@ I'm passionate about crafting clean, user-friendly web interfaces and continuall
 ---
 
 ### Let's Connect!
-- [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*
-- [Portfolio](https://your-portfolio.com) *(If you have one)*
+- [LinkedIn](https://www.linkedin.com/in/jcalvink/) *(Add your profile link)*
