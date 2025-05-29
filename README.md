@@ -9,11 +9,7 @@
 I'm a **Frontend Developer** passionate about crafting beautiful and responsive user interfaces. I enjoy turning complex problems into simple, elegant solutions and I'm always eager to learn new technologies and best practices.
 
 * 🔭 I’m currently working on **{Project Name}**
-* 👯 I’m looking to collaborate on interesting frontend projects, especially those involving [mention a specific tech or type of project if you like].
-* 🤔 I’m looking for help with [mention something you're trying to learn or a challenge].
-* 💬 Ask me about: `JavaScript`, `React`, `Vue.js`, `CSS`, `HTML`, `UI/UX Design Principles` (Adjust to your expertise)
-* 📫 How to reach me: `your.email@example.com` or [LinkedIn](https://linkedin.com/in/yourusername)
-* ⚡ Fun fact: [Add a fun or interesting fact about yourself]
+
 
 <br/>
 
@@ -23,9 +19,9 @@ Here are some of the technologies I work with, in a style similar to your exampl
 
 <p align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
-  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Python"/>&nbsp;
+  
+  
   </p>
 
 **How to create more badges like these:**
