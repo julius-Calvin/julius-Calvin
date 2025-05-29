@@ -19,94 +19,36 @@ I'm a **Frontend Developer** passionate about crafting beautiful and responsive 
 
 ## 🛠️ My Skillset
 
-Here are some of the technologies and tools I work with:
-
-**Languages:**
+Here are some of the technologies I work with, in a style similar to your example:
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>&nbsp;
+  </p>
 
-**Frameworks & Libraries:**
+**How to create more badges like these:**
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-</p>
+You can generate these badges using [Shields.io](https://shields.io/).
+The general URL pattern is:
+`https://img.shields.io/badge/TEXT_TO_DISPLAY-HEX_COLOR_CODE?style=for-the-badge&logo=LOGO_NAME&logoColor=LOGO_COLOR_CODE`
 
-**Styling & UI:**
+* **`TEXT_TO_DISPLAY`**: The uppercase text for the badge (e.g., `JAVASCRIPT`, `REACT`). For spaces or special characters, use URL encoding (e.g., `NODE.JS` becomes `NODE.JS` or `NODE%20JS`).
+* **`HEX_COLOR_CODE`**: The background color for the badge (e.g., `323330` for the JavaScript badge). Do *not* include the `#` symbol.
+* **`style=for-the-badge`**: This provides the rectangular style. Other styles like `flat`, `flat-square`, `plastic` are also available.
+* **`logo=LOGO_NAME`**: The name of the icon. Most names come from [Simple Icons](https://simpleicons.org/). Search for the technology there to find its icon name (e.g., `javascript`, `typescript`, `php`, `react`, `nodedotjs`).
+* **`logoColor=LOGO_COLOR_CODE`**: The color for the icon (e.g., `F7DF1E` for the yellow JavaScript icon). Do *not* include the `#`. Use `white` for white icons.
 
-<p align="left">
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  </a>
-</p>
+**Tips for Customization:**
 
-**Tools & Platforms:**
+1.  **Finding Colors and Logo Names**:
+    * Go to [Simple Icons](https://simpleicons.org/). Search for the brand/technology. They often provide the official hex color and the exact name to use for the `logo` parameter.
+2.  **Arrangement**:
+    * To place badges side-by-side, put the `<img>` tags on the same line in your Markdown file.
+    * Add `&nbsp;` between `<img>` tags for a small space.
+3.  **PHP Logo Note**: The PHP logo in your image (oval with "php" text) is a bit different from the one typically available on Simple Icons (which is usually just the letters "php"). The badge generated above will use the latter. If you need an exact match for a specific logo not available on Simple Icons, you might need to create a custom SVG and host it, or use a more complex badge generation method. For most common tech, Shields.io and Simple Icons will provide good-looking and recognizable badges.
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-**Alternative for Skillset Icons (using `skillicons.dev` for a more compact list):**
-
-```markdown
-## 🛠️ My Skillset
-
-<p align="left">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=js,ts,html,css,react,vue,angular,nextjs,svelte,redux,sass,tailwind,bootstrap,materialui,git,github,figma,webpack,jest](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,angular,nextjs,svelte,redux,sass,tailwind,bootstrap,materialui,git,github,figma,webpack,jest)" />
-    </a>
-</p>
+**Example for React (add this to the `<p align="left">` block if needed):**
+```html
+<img src="[https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" alt="React"/>&nbsp;
