@@ -44,8 +44,8 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and pote
 **🔗 My LinkedIn Profile:**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername" alt="Connect on LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jcalvink/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcalvink/" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
