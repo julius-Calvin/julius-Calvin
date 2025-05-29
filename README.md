@@ -1,16 +1,4 @@
-# Hi there 👋, I'm [Your Name]
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
-
-## 🚀 About Me
-
-I'm a **Frontend Developer** passionate about crafting beautiful and responsive user interfaces. I enjoy turning complex problems into simple, elegant solutions and I'm always eager to learn new technologies and best practices.
-
-* 🔭 I’m currently working on **{Project Name}**
-
-<br/>
+# Julius Calvin Kurniadi
 
 ## 🛠️ My Skillset
 
