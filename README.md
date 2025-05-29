@@ -7,7 +7,6 @@
 Here's a snapshot of the tools and technologies I'm proficient with. I'm always learning and exploring new things!
 
 ---
-
 ### 💻 Core Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
@@ -28,11 +27,24 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 
 ---
 
+## 💡 Volunteering & Contributions
+
+---
+
+### **Frontend Developer (Volunteer)** at [Name of Organization or Project]([Link to Organization/Project Website - optional])
+*_(Month Year – Month Year / Present)_*
+
+* [Your detailed contributions and achievements as a volunteer...]
+* [More details...]
+* [More details...]
+
+---
+
 ## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jcalvink/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Connect with me on LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300" alt="Connect with me on LinkedIn"/>
   </a>
 </p>
 
@@ -40,4 +52,10 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and pote
 
 ---
 
+**🔗 My LinkedIn Profile:**
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/jcalvink/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcalvink/" alt="Connect on LinkedIn"/>
+  </a>
+</p>
