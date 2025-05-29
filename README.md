@@ -13,13 +13,6 @@ I'm passionate about crafting clean, user-friendly web interfaces and continuall
 
 ---
 
-### Favorite Character: Zero Two
-
-![Zero Two Dancing](https://media.giphy.com/media/Q8I2Ppprx9h60/giphy.gif)
-
-> *"I found you, my darling."*
-
----
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jcalvink/) *(Add your profile link)*
