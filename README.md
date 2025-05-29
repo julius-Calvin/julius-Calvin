@@ -44,20 +44,16 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jcalvink/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300" alt="Connect with me on LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Connect with me on LinkedIn"/>
   </a>
 </p>
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators! Feel free to reach out to me on LinkedIn.
 
 ---
 
-**🔗 My LinkedIn Profile:**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jcalvink/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jcalvink/" alt="Connect on LinkedIn"/>
-  </a>
+<p>
+  <img src = "https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDE3MDQsIm5iZiI6MTc0ODUwMTQwNCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA2NTAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NjBhODcyNDY4ODBhOGI5YmE5ZWFjZDY2OTE1NzY5MTExOGI2YWNmY2FiMzk4ZjQzNjk2NGZmM2Q4YmJmNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-1B7FJpNnKD4S_jet5gX2b8C9LSgWnYyEu_4N36tBYI" width="300" alt="Stressed Anime Girl Coding" />
 </p>
+
