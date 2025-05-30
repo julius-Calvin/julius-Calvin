@@ -38,7 +38,7 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 ### **Frontend Developer (Volunteer)** for IT-Today IPB University
 *_(April 2025 – Present)_*
 
-* **Spearheading the UI/UX design** for key platform components, including the user login form and main dashboard, prioritizing intuitive navigation and a modern, responsive user experience for the IT-Today event.
+* **Participating the UI/UX design** for key platform components, including the user login form and main dashboard, prioritizing intuitive navigation and a modern, responsive user experience for the IT-Today event.
     * Designing wireframes and mockups using Figma to visualize user flows before implementation.
 * **Developing and implementing** interactive and responsive frontend features for the IT-Today platform using **React and Tailwind**.
 * **Managing frontend logic** for user authentication flows, dynamic data presentation on the dashboard, and ensuring smooth user interactions.
