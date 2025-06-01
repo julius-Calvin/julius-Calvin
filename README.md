@@ -50,7 +50,7 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jcalvink/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="Connect with me on LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="Connect with me on LinkedIn"/>
   </a>
 </p>
 
