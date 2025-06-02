@@ -6,7 +6,7 @@
 </p>
 
 <h2>📝 Table of Contents</h2>
-<ul list="list-style-image: point.gif">
+<ul list="list-style-image: url('point.gif');">
   <li><a href="#tech-stack">🛠️ My Tech Stack & Skills</a></li>
   <li><a href="#experience">💡 Experience</a></li>
   <li><a href="#connect">📫 Connect with Me</a></li>
