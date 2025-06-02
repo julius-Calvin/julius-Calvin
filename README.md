@@ -6,10 +6,10 @@
 </p>
 
 <h2>📝 Table of Contents</h2>
-<ul style="list-style-type: none;>
-  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#tech-stack">My Tech Stack & Skills</a></li>
-  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#experience">Experience</a></li>
-  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#connect">Connect with Me</a></li>
+<ul>
+  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#tech-stack">My Tech Stack & Skills</a></li>
+  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#experience">Experience</a></li>
+  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#connect">Connect with Me</a></li>
 </ul>
 
 <hr />
