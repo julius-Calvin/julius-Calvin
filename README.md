@@ -13,9 +13,6 @@
 </ul>
 <hr />
 <h2 id="tech-stack">🛠️ My Tech Stack & Skills</h2>
-
-Here's a snapshot of the tools and technologies I'm proficient with. I'm always learning and exploring new things!
-
 ---
 ### 💻 Core Languages
 <p align="left">
