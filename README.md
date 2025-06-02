@@ -6,7 +6,7 @@
 </p>
 
 <h2>📝 Table of Contents</h2>
-<a href="#tech-stack">🛠️ My Tech Stack & Skills</a>
+<a href="#tech-stack">🛠️ My Tech Stack & Skills</a><br>
 <a href="#experience">💡 Experience</a>
 <a href="#connect">📫 Connect with Me</a>
 
