@@ -5,33 +5,39 @@
   <img src="/images/anime_ngoding.gif" style="border-radius: 15px;" width="500" alt="Stressed Anime Girl Coding" />
 </p>
 
-
-## 🛠️ My Tech Stack & Skills
+<h2>📝 Table of Contents</h2>
+<ul>
+  <li><a href="#tech-stack">🛠️ My Tech Stack & Skills</a></li>
+  <li><a href="#experience">💡 Experience</a></li>
+  <li><a href="#connect">📫 Connect with Me</a></li>
+</ul>
+<hr />
+<h2 id="tech-stack">🛠️ My Tech Stack & Skills</h2>
 
 Here's a snapshot of the tools and technologies I'm proficient with. I'm always learning and exploring new things!
 
 ---
 ### 💻 Core Languages
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ### 📚 Libraries & Frameworks
 <p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ### 🌐 Web Technologies & Markup
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
 
-## 💡 Experience
+<h2 id="experience">💡 Experience</h2>
 
 ---
 
@@ -46,7 +52,7 @@ Here's a snapshot of the tools and technologies I'm proficient with. I'm always 
 
 ---
 
-## 📫 Connect with Me
+<h2 id="connect">📫 Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jcalvink/">
