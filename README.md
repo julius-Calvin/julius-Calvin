@@ -6,9 +6,9 @@
 </p>
 
 <h2>📝 Table of Contents</h2>
-<img src="images/point.gif" alt="bullet" width="16" height="16" style="vertical-align: middle;" /> <a href="#tech-stack">My Tech Stack & Skills</a>
-<img src="images/point.gif" alt="bullet" width="16" height="16" style="vertical-align: middle;" /> <a href="#experience">Experience</a>
-<img src="images/point.gif" alt="bullet" width="16" height="16" style="vertical-align: middle;" /> <a href="#connect">Connect with Me</a>
+<a href="#tech-stack">🛠️ My Tech Stack & Skills</a>
+<a href="#experience">💡 Experience</a>
+<a href="#connect">📫 Connect with Me</a>
 
 <hr />
 <h2 id="tech-stack">🛠️ My Tech Stack & Skills</h2>
