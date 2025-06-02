@@ -7,14 +7,14 @@
 
 <h2>📝 Table of Contents</h2>
 <ul>
-  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#tech-stack">My Tech Stack & Skills</a></li>
-  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#experience">Experience</a></li>
-  <li  style="list-style-type: none;><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#connect">Connect with Me</a></li>
+  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#tech-stack">My Tech Stack & Skills</a></li>
+  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#experience">Experience</a></li>
+  <li><img src="images/point.gif" alt="bullet" width="16" height="16" /> <a href="#connect">Connect with Me</a></li>
 </ul>
 
 <hr />
 <h2 id="tech-stack">🛠️ My Tech Stack & Skills</h2>
----
+
 <h3>💻 Core Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp;
