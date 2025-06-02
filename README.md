@@ -7,9 +7,11 @@
 
 <h2>📝 Table of Contents</h2>
 <ul list="list-style-image: url('point.gif');">
-  <li><a href="#tech-stack">🛠️ My Tech Stack & Skills</a></li>
-  <li><a href="#experience">💡 Experience</a></li>
-  <li><a href="#connect">📫 Connect with Me</a></li>
+<ul>
+  <li><img src="point.gif" alt="bullet" width="16" height="16" /> <a href="#tech-stack">My Tech Stack & Skills</a></li>
+  <li><img src="point.gif" alt="bullet" width="16" height="16" /> <a href="#experience">Experience</a></li>
+  <li><img src="point.gif" alt="bullet" width="16" height="16" /> <a href="#connect">Connect with Me</a></li>
+</ul>
 </ul>
 <hr />
 <h2 id="tech-stack">🛠️ My Tech Stack & Skills</h2>
